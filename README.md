@@ -1,43 +1,29 @@
-# 👋 Hi, I'm Antoni Piwowarski
-
-Full-stack developer passionate about creating web applications and solving problems through code.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/antoni-piwowarski-09767530a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black)](https://zanvis.github.io)
-
-## 💻 Tech Stack
-- **Frontend**: Angular, React, HTML/CSS, JavaScript/TypeScript
-- **Backend**: Node.js, Python, PHP, C#
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **Tools**: Git, WordPress
-
-## 🚀 Current Focus
-- Building responsive web applications
-- Deepening my knowledge of full-stack development
-- Contributing to open-source projects
-
-## 📫 Contact
-- Email: aapiwowarski@gmail.com
+<div align="center">
+  <h1>Antoni Piwowarski</h1>
+  <p>🚀 Full-Stack Developer | Problem Solver | Code Enthusiast</p>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-zanvis.github.io-9cf)](https://zanvis.github.io)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Antoni_Piwowarski-0A66C2)](https://www.linkedin.com/in/antoni-piwowarski-09767530a/)
+  [![Email](https://img.shields.io/badge/Email-aapiwowarski@gmail.com-red)](mailto:aapiwowarski@gmail.com)
+</div>
 
 ---
 
-# 👋 Cześć, jestem Antoni Piwowarski
+### **🔧 Technologies:** React, Angular, Node.js, Python, C#, MongoDB, MySQL
 
-Full-stack developer z pasją do tworzenia aplikacji webowych i rozwiązywania problemów przez kod.
+### **💡 Currently:** Building beautiful web experiences & exploring new tech
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Połącz-blue)](https://www.linkedin.com/in/antoni-piwowarski-09767530a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Odwiedź-black)](https://zanvis.github.io)
+---
 
-## 💻 Technologie
-- **Frontend**: Angular, React, HTML/CSS, JavaScript/TypeScript
-- **Backend**: Node.js, Python, PHP, C#
-- **Bazy danych**: MongoDB, MySQL, PostgreSQL
-- **Narzędzia**: Git, WordPress
+<div align="center">
+  <h1>Antoni Piwowarski</h1>
+  <p>🚀 Full-Stack Developer | Specjalista od rozwiązywania problemów</p>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-zanvis.github.io-9cf)](https://zanvis.github.io)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Antoni_Piwowarski-0A66C2)](https://www.linkedin.com/in/antoni-piwowarski-09767530a/)
+  [![Email](https://img.shields.io/badge/Email-aapiwowarski@gmail.com-red)](mailto:aapiwowarski@gmail.com)
+</div>
 
-## 🚀 Obecne cele
-- Tworzenie responsywnych aplikacji webowych
-- Pogłębianie wiedzy z zakresu full-stack development
-- Wkład w projekty open-source
+### **🔧 Technologie:** React, Angular, Node.js, Python, C#, MongoDB, MySQL
 
-## 📫 Kontakt
-- Email: aapiwowarski@gmail.com
+### **💡 Aktualnie:** Tworzę wspaniałe doświadczenia webowe & odkrywam nowe technologie
