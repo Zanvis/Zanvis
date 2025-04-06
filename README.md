@@ -24,6 +24,6 @@
   [![Email](https://img.shields.io/badge/Email-aapiwowarski@gmail.com-red)](mailto:aapiwowarski@gmail.com)
 </div>
 
-### **🔧 Technologie:** React, Angular, Node.js, Python, C#, PHP, MongoDB, MySQL
+### **🔧 Technologie:** Angular, React, Node.js, Python, C#, PHP, MongoDB, MySQL
 
 ### **💡 Aktualnie:** Tworzę wspaniałe doświadczenia webowe & odkrywam nowe technologie
