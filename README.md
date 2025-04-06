@@ -9,7 +9,7 @@
 
 ---
 
-### **🔧 Technologies:** React, Angular, Node.js, Python, C#, MongoDB, MySQL
+### **🔧 Technologies:** Angular, React, Node.js, Python, C#, PHP, MongoDB, MySQL
 
 ### **💡 Currently:** Building beautiful web experiences & exploring new tech
 
@@ -24,6 +24,6 @@
   [![Email](https://img.shields.io/badge/Email-aapiwowarski@gmail.com-red)](mailto:aapiwowarski@gmail.com)
 </div>
 
-### **🔧 Technologie:** React, Angular, Node.js, Python, C#, MongoDB, MySQL
+### **🔧 Technologie:** React, Angular, Node.js, Python, C#, PHP, MongoDB, MySQL
 
 ### **💡 Aktualnie:** Tworzę wspaniałe doświadczenia webowe & odkrywam nowe technologie
